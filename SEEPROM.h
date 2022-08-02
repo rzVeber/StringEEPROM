@@ -3,6 +3,8 @@
 // #define FLAG_CHAR_ 19
 // #define CLEAR_CHAR_ 12
 
+
+
 class SEEPROM {
   private:
     char FLAG_CHAR_ = 19;
